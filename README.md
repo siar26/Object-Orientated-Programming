@@ -11,3 +11,5 @@ Python Object Orientated Programming: https://realpython.com/python3-object-orie
 C#: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop
 
 C++ OOP:  https://www.geeksforgeeks.org/cpp/object-oriented-programming-in-cpp/
+
+UML diagrams: https://www.geeksforgeeks.org/system-design/unified-modeling-language-uml-introduction/
